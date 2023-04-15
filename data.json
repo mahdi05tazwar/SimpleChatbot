@@ -1,0 +1,16 @@
+{
+    "data":[
+        {
+            "sample":["Hey there!", "Hello, mate!", "Hi, friend!", "Hi, bro.", "Hey, man."],
+            "responses":["Hello!", "Oh, hi!", "Hey, nice to meet you!", "Hey!", "Hi!"]
+        },
+        {
+            "sample":["Introduce yourself.", "Who are you?", "What are you?", "What's your name?"],
+            "responses":["I'm a chatbot.", "I'm your newest friend!"]
+        },
+        {
+            "sample":["What can you do?", "What are you good at?", "What are your features?", "Tell me about your features."],
+            "responses":["I can talk to you!", "I can bore people."]
+        }
+    ]
+}
